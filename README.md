@@ -1,1 +1,1 @@
-# Nifty-Time-Series
+# Nifty Pharma-Time-Series
